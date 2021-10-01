@@ -1,0 +1,5 @@
+[SPAM]  You gonna be the 1stContent-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.

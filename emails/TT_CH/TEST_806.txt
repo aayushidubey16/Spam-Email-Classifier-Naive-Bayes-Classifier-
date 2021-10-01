@@ -1,0 +1,9 @@
+Re: NIS: /etc/nsswitch seems (a bit) ignored from /usr/bin/passwd
+ *solved*Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+hi,
+
+nscd was the problem. He cached the local passwd ...
+
+cu denny
